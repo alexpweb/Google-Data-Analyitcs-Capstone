@@ -1,5 +1,5 @@
 ## Overview
-This project is part of the Google Data Analytics Capstone through Coursera. It focuses on analyzing Divvy bike-share data to derive actionable insights that can help convert casual riders into annual subscribers. The company is fictious and it is called Cyclistic.
+This project is part of the Google Data Analytics Certificate through Coursera. It focuses on analyzing bike-share data to derive actionable insights that can help convert casual riders into annual subscribers. The company is fictious and it is called Cyclistic, data are real. 
 
 ---
 
